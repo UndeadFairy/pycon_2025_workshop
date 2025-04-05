@@ -60,7 +60,7 @@ By the end of the workshop, you’ll be able to:
 ## 🙌 Credits
 
 Organized by [PyLadies Vienna](https://pyladies.at).  
-Notebook & materials maintained by [@UndeadFairy](https://github.com/UndeadFairy).
+Notebook & materials maintained by Tyna Dolezalova [@UndeadFairy](https://github.com/UndeadFairy) and Lubo Dolezal [@lubojr](https://github.com/lubojr).
 
 ---
 
